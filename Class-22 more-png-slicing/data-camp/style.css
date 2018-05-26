@@ -1,0 +1,512 @@
+p {
+	display: inline-block;
+}
+header {
+	margin: -8px;
+	position: sticky;
+	top: 0px;
+	border-bottom: 1px solid #e4e8e9;
+	border-top: 1px solid #e4e8e9;
+	background-color: white;
+	/*height: 50px;*/
+}
+header div {	/*(Share an Article)*/
+	border: 1px solid #e4e8e9;
+	border-radius: 5px;
+	background-color: #65d67d;
+	color: white;
+	display: inline-block;
+	width: 140px;
+	padding: 8px;
+	text-align: center;
+	position: absolute;
+	top: 5px;
+	right: 25px;
+	margin: 0px;
+}
+header div p{
+	margin: 0px;
+}
+header div:nth-child(3){ 	/*(Log in)*/
+	border: 1px solid #e4e8e9;
+	border-radius: 5px;
+	color: black;
+	background-color: white	;
+	/*display: inline-block;*/
+	width: 60px;
+	padding: 8px;
+	text-align: center;
+	position: absolute;
+	top: 5px;
+	right: 335px;
+}
+header div:nth-child(4){	/*(Create Account)*/
+	border: 1px solid #e4e8e9;
+	border-radius: 5px;
+	color: black;
+	background-color: #fac743;
+	/*display: inline-block;*/
+	width: 120px;
+	padding: 8px;
+	text-align: center;
+	position: absolute;
+	top: 5px;
+	right: 190px;
+}
+ #search{    /*(header Search Icon)*/
+ 	margin: 0px;
+ 	color: #5ab7d4;	
+ 	position: absolute;
+ 	top: 15px;
+ 	left: 250px;
+}
+header p{		/*header search*/
+	margin-left: 270px;
+}
+/*Header Portion Complete*/
+
+article {
+	border: 1px solid black;
+	width: 17%;
+	height: 670px;
+	position: fixed;
+	top: 0px;
+	left: 0px;
+	background-color: #358fb5;
+	z-index: 1;
+}
+article div {		/*COMMUNITY DIV*/
+	background-color: #205b72;
+	height: 40px;
+}
+h4 {
+	margin: 0px;
+	padding: 12px;
+	text-align: center;	
+	color: #358fb5;
+}
+#data {
+	margin-top: 10px;
+	margin-left: 15px;
+	padding: 15px;
+	color: white;
+	font-size: 30px;
+
+}
+#new {
+	color: #24657e;
+	margin-left: 15px;
+}
+
+.para-1 {			/*DataCamp*/
+	font-size: 25px;
+	color: white;
+	margin-left: -10px;	
+	margin: 0px;
+}
+
+.para-2 {
+	color: white;
+	margin-left: 5px;
+}
+
+article div:nth-child(6){		/*Beta DIV*/
+	width: 50px;
+	height: 25px;
+	background-color: #fac743;
+	color: black;
+	text-align: center;
+	margin: 0px;	
+	border-radius: 5px;
+	position: absolute;
+	top: 120px;
+	left: 170px;
+}
+.para-3 {
+	font-size: 15px;
+	font-weight: bold;
+	color: #70654b;
+	margin: 0px;
+	padding: 5px;
+	text-align: center;
+}
+
+#graduation {		/*graduation Icon*/
+	display: block;
+	color: #24657e;
+	margin-left: 5px;
+}
+.para-4 {
+	margin: 0px;
+	color: white;
+	margin-left: 5px;
+}
+
+section span {
+	color: white;
+	margin-left: 5px;
+	display: inline-block;
+}
+#cheat {		/*cheat Icon*/
+	display: block;
+	color: #24657e;
+	margin-left: 5px;
+	
+}
+.para-5 {
+	/*margin: 0px;*/
+	color: white;
+	margin-left: 12px;
+}
+
+#open {		/*open courses*/
+	display: block;
+	color: #24657e;
+	margin-left: 5px;
+
+	
+}
+.para-6 {
+	/*margin: 0px;*/
+	color: white;
+	margin-left: 12px;
+	margin-top: 0px;
+
+}
+
+#procast {		/*Procast Data-Farmed*/
+	display: block;
+	color: #24657e;
+	margin-left: 5px;
+
+	
+}
+.para-7 {
+	/*margin: 0px;*/
+	color: white;
+	margin-left: 12px;
+	margin-top: 0px;
+}
+
+#official {		/*official blog*/
+	display: block;
+	color: white;
+	margin-left: 5px;
+
+	
+}
+.para-8 {
+	/*margin: 0px;*/
+	color: white;
+	margin-left: 12px;
+	margin-top: 15px;
+}
+
+#tech {		/*tech thoughts*/
+	display: block;
+	color: #24657e;
+	margin-left: 5px;
+
+	
+}
+.para-9 {
+	/*margin: 0px;*/
+	color: white;
+	margin-left: 12px;
+	margin-top: 0px;
+}
+
+#sub {		/*subscribe to RSS*/
+	display: block;
+	color: #f5c645;
+	margin-left: 5px;
+	position: absolute;
+	left: 55px;
+	top: 550px;
+
+	
+}
+.para-10 {
+	/*margin: 0px;*/
+	color: white;
+	margin-left: 12px;
+	margin-top: 0px;
+	position: absolute;
+	left: 70px;
+	top: 555px;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.div-2 {   /*facebook logo div*/
+	border: 0px solid black;
+	background-color: #205b72;
+	border-radius: 50px;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	position: absolute;
+	left: 30px;
+	top: 580px;
+}
+#face {     /*facebook logo*/
+	margin-top: 7px;
+	color: #7dcce3;
+
+}
+
+#face:hover {
+	color: white;
+	cursor: pointer;
+}
+
+.div-3 { 	/*twitter logo div*/
+	border: 0px solid black;
+	background-color: #205b72;
+	border-radius: 50px;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	position: absolute;
+	left: 75px;
+	top: 580px;
+}
+#twitter {     /*twitter logo*/
+	margin-top: 7px;
+	color: #7dcce3;
+
+}
+
+#twitter:hover {
+	color: white;
+	cursor: pointer;
+}
+
+.div-4 { 	/*IN logo div*/
+	border: 0px solid black;
+	background-color: #205b72;
+	border-radius: 50px;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	position: absolute;
+	left: 120px;
+	top: 580px;
+}
+#in {     /*twitter logo*/
+	margin-top: 7px;
+	color: #7dcce3;
+
+}
+
+#in:hover {
+	color: white;
+	cursor: pointer;
+}
+
+.youtube { 	/*Youtube logo div*/
+	border: 0px solid black;
+	background-color: #205b72;    /*#205b72;*/
+	border-radius: 50px;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	position: absolute;
+	left: 165px;
+	top: 580px;
+}
+#ytube {     /*twitter logo*/
+	margin-top: 7px;
+	color: #7dcce3;
+
+}
+
+#ytube:hover {
+	color: white;
+	cursor: pointer;
+}
+
+.para-11 {	/*about terms privacy*/
+	/*margin: 0px;*/
+	color: #24657e;
+	margin-left: 12px;
+	margin-top: 0px;
+	position: absolute;
+	left: 40px;
+	bottom: 5px;
+	font-size: 12px;
+	font-weight: bold;
+}
+	/*Article Left Portion Complete*/
+
+h1 {
+	color: #3d4250;
+	font-size: 30px;
+	margin-left: 330px;
+	line-height: 1.3;
+}
+.para-12 {
+	color: #3d4250;
+	font-size: 22px;
+	margin-left: 330px;
+	margin-right: 150px;
+	line-height: 1.6;
+}
+.para-13 {
+	margin-top: 0px;
+	color: #3d4250;
+	font-size: 22px;
+	margin-left: 330px;
+	margin-right: 150px;
+	line-height: 1.6;
+}
+h2 {
+	margin-top: 0px;
+	color: #3d4250;
+	font-size: 30px;
+	margin-left: 330px;
+	line-height: 1.3;
+}
+
+.para-14 {
+	margin-top: 0px;
+	color: #3d4250;
+	font-size: 22px;
+	margin-left: 330px;
+	margin-right: 150px;
+	line-height: 1.6;
+}
+
+.div-5 {
+	position: relative;
+	z-index: -1;
+	
+}
+
+.div-6 {
+	position: fixed;
+	top: 230px;
+	left: 265px;
+	background-color: #f0f4f5;
+	width: 55px;
+	height: 55px;
+	border: 0px solid black;
+	text-align: center;
+	border-radius: 5px;
+}
+#twitch {
+	color: #4aafce;
+	text-align: center;
+	position: absolute;
+	top: 12px;
+	left: 20px;
+}
+.para-15 {
+	margin: 0px;
+	display: block;
+	position: absolute;
+	top: 30px;
+	left: 23px;
+	color: #697075;
+}
+
+/*Body Icon Portion Start*/
+.div-7 {
+	position: absolute;
+	top: 65px;
+	left: 10px;
+	border: 2px solid #f0f4f5;
+	background-color: white;    /*#205b72;*/
+	border-radius: 50px;
+	width: 30px;
+	height: 30px;
+}
+#face1 {
+	margin-top: 7px;
+	color: #686f74;
+}
+.div-7:hover {
+	background-color: #ebecec;
+	cursor: pointer;
+}
+
+.div-8 {
+	position: absolute;
+	top: 105px;
+	left: 10px;
+	border: 2px solid #f0f4f5;
+	background-color: white;   
+	border-radius: 50px;
+	width: 30px;
+	height: 30px;
+}
+.div-8:hover {
+	background-color: #ebecec;
+	cursor: pointer;
+}
+
+#twitter1 {
+	margin-top: 7px;
+	color: #686f74;
+
+}
+.div-9 {
+	position: absolute;
+	top: 145px;
+	left: 10px;
+	border: 2px solid #f0f4f5;
+	background-color: white;   
+	border-radius: 50px;
+	width: 30px;
+	height: 30px;
+}
+.div-9:hover {
+	background-color: #ebecec;
+	cursor: pointer;
+}
+
+#in1 {
+	margin-top: 7px;
+	color: #686f74;
+
+}
+/*Body Icon Portion End*/
+
+footer {
+	margin-top: 375px;
+	margin-left: -35px;
+	width: 1117px;
+	height: 59px;
+	-webkit-box-shadow: 0px -5px 8px -4px rgba(0,0,0,0.75);
+	-moz-box-shadow: 0px -5px 8px -4px rgba(0,0,0,0.75);
+	box-shadow: 0px -5px 8px -4px rgba(0,0,0,0.75);
+	background-color: white;
+	position: fixed;
+	z-index: -1;
+}
+#user {
+	position: absolute;
+	top: 15px;
+	left: 20px;
+	font-size: 30px;
+	color: #78cce4;
+}
+
+.div-10 {
+	background-color: #ecf5f7;
+	width: 1020px;
+	height: 40px;
+	position: absolute;
+	left: 70px;
+	top: 10px;
+	border: 0px solid #ecf5f7;
+	border-radius: 10px;
+}
+
+.para-16 {
+	position: absolute;
+	top: -5px;
+	left: 15px;
+	text-align: left;
+	color:#78cce4;
+}

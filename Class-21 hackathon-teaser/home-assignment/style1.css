@@ -1,0 +1,148 @@
+body {
+	font-family: arial;
+}
+
+h3 {
+	color: white;
+	margin: 0px;
+	display: inline-block;
+	position: absolute;
+	top: 30px;
+	left: 95px;
+	font-size: 20px;
+}
+h4 {
+	margin: 0px;
+	color: #1a77cc;
+}
+h4 span {
+	position: absolute;
+	top: 95px;
+	left: 300px;
+	font-size: 20px;
+	color: rgba(155, 164, 169, 0.0);
+
+}
+h4 span:hover {
+	color: rgba(155, 164, 169, 1);
+}
+h4 span:active {
+	color: rgba(105, 112, 118, 1);
+}
+h4:hover {
+	color: #37A9FB;
+	cursor: pointer;
+}
+
+
+h2 {
+	font-size: 16px;
+	margin: 0px;
+	color: #1a77cc;
+}
+
+h2 span {
+	position: absolute;
+	top: 265px;
+	left: 300px;
+	font-size: 20px;
+	color: rgba(155, 164, 169, 0.0);
+}
+h2 span:hover {
+	color: rgba(155, 164, 169, 1);
+}
+h2 span:active {
+	color: rgba(250, 252, 253, 1);
+}
+
+h2:hover {
+	color: #37A9FB;
+	cursor: pointer;
+
+}
+
+
+
+
+.para-1 {
+	font-weight: bold;
+	color: #828C93;
+	
+}
+
+.para-2 {
+	
+	font-style: italic;
+	color: #828C93;
+}
+
+p {
+	display: inline-block;
+}
+
+.btndiv {
+	display: inline-block;
+	background-color: #e1ebf4;
+	padding: 10px;
+	color: #4A81B5;
+	font-weight: bold;
+}
+section {
+	
+	padding: 16px;
+	border-bottom: 2px solid #e7e7cd;
+	width: 90%;
+}
+article {
+	display: inline-block;
+	border: 2px solid #e7e7cd;
+}
+
+.div-1 {
+	color: #E8B900;
+	font-weight: bold;
+	margin-bottom: 10px;
+}
+
+.div-2 {
+	padding: 16px;
+}
+
+
+.tooltiptext {
+	background-color: #3b4044;
+	color: white;
+	font-size: 12px;
+	padding: 5px;
+	border-radius: 5px;
+	position: absolute;
+	top: 70px;
+	left: 220px;
+	background-color: rgba(59, 64, 68, 0);
+}
+
+.tooltiptext:hover {
+	background-color: rgba(59, 64, 68, 1);
+}
+.tooltiptext:active {
+	background-color: rgba(59, 64, 68, 1);
+}
+
+.tooltiptext1 {
+	background-color: #3b4044;
+	color: white;
+	font-size: 12px;
+	padding: 5px;
+	border-radius: 5px;
+	position: absolute;
+	top: 250px;
+	left: 220px;
+	background-color: rgba(59, 64, 68, 0);
+}
+
+.tooltiptext1:hover {
+	background-color: rgba(59, 64, 68, 1);
+}
+.tooltiptext1:active {
+	background-color: rgba(59, 64, 68, 1);
+}

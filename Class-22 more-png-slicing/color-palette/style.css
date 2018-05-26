@@ -1,0 +1,181 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-weight: bold;
+	font-size: 14px;
+}
+section div:nth-child(1) {
+
+	background-color: yellow;
+	width: 300px;
+	height: 100px;
+	position: relative;
+}
+
+section div:first-child span:nth-child(1) {
+	position: absolute;
+	top: 10px;
+	left: 5px;
+}
+section div:first-child span:nth-child(2) {
+	position: absolute;
+	left: 5px;
+	bottom: 5px;
+}
+section div:first-child span:nth-child(3) {
+	position: absolute;
+	right: 15px;
+	bottom: 5px;
+}
+
+section div:nth-child(2) {   /*(div no.2)*/
+	background-color: #fefee6;
+	width: 300px;
+	height: 50px;
+	position: relative;
+}
+
+section div:nth-child(2) span:nth-child(1) {
+	position: absolute;
+	left: 5px;
+	bottom: 15px;
+}
+section div:nth-child(2) span:nth-child(2) {
+	position: absolute;
+	left: 230px;
+	bottom: 15px;
+}
+
+section div:nth-child(3) {   /*(div no.3)*/
+	background-color: #fefcc2;
+	width: 300px;
+	height: 50px;
+	position: relative;
+}
+section div:nth-child(3) span:nth-child(1) {
+	position: absolute;
+	left: 5px;
+	bottom: 15px;
+}
+section div:nth-child(3) span:nth-child(2) {
+	position: absolute;
+	left: 230px;
+	bottom: 15px;
+}
+
+section div:nth-child(4) {   /*(div no.4)*/
+	background-color: #fdfa98;
+	width: 300px;
+	height: 50px;
+	position: relative;
+}
+section div:nth-child(4) span:nth-child(1) {
+	position: absolute;
+	left: 5px;
+	bottom: 15px;
+}
+section div:nth-child(4) span:nth-child(2) {
+	position: absolute;
+	left: 230px;
+	bottom: 15px;
+}
+
+section div:nth-child(5) {   /*(div no.5)*/
+	background-color: #fdf76c;
+	width: 300px;
+	height: 50px;
+	position: relative;
+}
+section div:nth-child(5) span:nth-child(1) {
+	position: absolute;
+	left: 5px;
+	bottom: 15px;
+}
+section div:nth-child(5) span:nth-child(2) {
+	position: absolute;
+	left: 230px;
+	bottom: 15px;
+}
+
+section div:nth-child(6) {   /*(div no.6)*/
+	background-color: #fef448;
+	width: 300px;
+	height: 50px;
+	position: relative;
+}
+section div:nth-child(6) span:nth-child(1) {
+	position: absolute;
+	left: 5px;
+	bottom: 15px;
+}
+section div:nth-child(6) span:nth-child(2) {
+	position: absolute;
+	left: 230px;
+	bottom: 15px;
+}
+
+section div:nth-child(7) {   /*(div no.7)*/
+	background-color: #fef11a;
+	width: 300px;
+	height: 50px;
+	position: relative;
+}
+section div:nth-child(7) span:nth-child(1) {
+	position: absolute;
+	left: 5px;
+	bottom: 15px;
+}
+section div:nth-child(7) span:nth-child(2) {
+	position: absolute;
+	left: 230px;
+	bottom: 15px;
+}
+
+section div:nth-child(8) {   /*(div no.8)*/
+	background-color: #ffdc07;
+	width: 300px;
+	height: 50px;
+	position: relative;
+}
+section div:nth-child(8) span:nth-child(1) {
+	position: absolute;
+	left: 5px;
+	bottom: 15px;
+}
+section div:nth-child(8) span:nth-child(2) {
+	position: absolute;
+	left: 230px;
+	bottom: 15px;
+}
+
+section div:nth-child(9) {   /*(div no.9)*/
+	background-color: #ffc100;
+	width: 300px;
+	height: 50px;
+	position: relative;
+}
+section div:nth-child(9) span:nth-child(1) {
+	position: absolute;
+	left: 5px;
+	bottom: 15px;
+}
+section div:nth-child(9) span:nth-child(2) {
+	position: absolute;
+	left: 230px;
+	bottom: 15px;
+}
+section div:nth-child(10) {   /*(div no.10)*/
+	background-color: #ffa500;
+	width: 300px;
+	height: 50px;
+	position: relative;
+}
+section div:nth-child(10) span:nth-child(1) {
+	position: absolute;
+	left: 5px;
+	bottom: 15px;
+}
+section div:nth-child(10) span:nth-child(2) {
+	position: absolute;
+	left: 230px;
+	bottom: 15px;
+}

@@ -1,0 +1,31 @@
+		IMPORTANT ICONS
+
+	facebook
+	<i class="fab fa-facebook-f"></i>
+
+	Linked IN icon
+	<i class="fab fa-linkedin-in"></i>
+	
+	Linked icon	
+	<i class="fab fa-linkedin"></i>
+	
+	twitter
+	<i class="fab fa-twitter"></i>
+
+	Youtube
+	<i class="fab fa-youtube-square"></i>
+
+	Mobile Icon
+	<i class="fas fa-mobile-alt"></i>
+
+	envolope icon  
+	<i class="far fa-envelope"></i>
+
+	Camera Icon
+	<i class="fas fa-camera-retro"></i>
+
+	periscope icon
+	<i class="fab fa-periscope"></i>
+	
+	map-marker-alt
+	<i class="fas fa-map-marker-alt"></i>

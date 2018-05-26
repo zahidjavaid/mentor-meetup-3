@@ -1,0 +1,42 @@
+icon code:
+1.	tech thought
+	<i class="fab fa-medapps"></i>
+
+2.	IN icon
+	<i class="fab fa-linkedin-in"></i>
+
+3.	New
+	<i class="fas fa-align-left"></i>
+
+4.	Podcast-Data
+	<i class="fas fa-microphone"></i>
+
+5.	Open
+	<i class="far fa-edit"></i>
+
+6.	facebook
+	<i class="fab fa-facebook-f"></i>
+
+7.	Cheat Sheets
+	<i class="far fa-file"></i>
+
+8.	Open Courses
+	<i class="far fa-file-alt"></i>
+
+9.	subscribe
+	<i class="fas fa-rss"></i>
+
+10.	twitter
+	<i class="fab fa-twitter"></i>
+
+11.	like
+	<i class="fab fa-twitch"></i>
+
+12.	Youtube
+	<i class="fab fa-youtube-square"></i>
+
+13.	Tutrial
+	<i class="fas fa-graduation-cap"></i> 
+
+14.	user face
+	<i class="fas fa-user-circle"></i>

@@ -1,0 +1,112 @@
+body {
+	font-family: arial;
+}
+article {
+	display: inline-block;
+	border: 2px solid #e7e7cd;
+	/*padding: 10px;
+*/
+}
+.maindiv-1 {
+	/*border: 2px solid black;*/
+	padding: 16px;
+	color: white;
+	background: linear-gradient(to right, #00baa6, #0089e0);
+	text-align: center;
+	display: inline-block;
+	width: 92%;
+}
+
+h3 {
+	margin: 0px;
+	color: #0089e0;
+	padding: 5px;
+	text-shadow: 0px 1px grey;
+}
+.para-1 {
+	margin: 0px;
+	display: inline-block;
+	color: #828C93;
+	font-weight: bold;
+	padding: 5px;
+}
+
+.para-2 {
+	padding: 5px;
+	line-height: 10px;
+	display: inline-block;
+	color: #B5B7B8;
+	margin: 0px;
+	font-style: italic;
+}
+
+.para-3 {
+	
+	padding: 10px;
+	color: #E8B900;
+	font-weight: bold;
+	margin: -6px;
+}
+
+.div-1 {
+	display: inline-block;
+}
+
+.wifiremote {
+	line-height: 10%;
+	padding-bottom: 5px;
+	margin: 10px 0px 10px 0px;
+	color: #00B373;
+	font-weight: bold;
+}
+
+/*section div:nth-child(2) {
+	display: inline-block;
+}*/
+
+/*section > div span {
+	 display: inline-block;
+}*/
+
+article section {
+	border-bottom: 1px solid #e7e7cd;
+	padding: 10px;
+
+}
+button {
+	color: #4A71C8;
+	margin-bottom: 10px;
+	padding: 3px;
+	background-color: #DDECF6
+}
+
+article div {  /*Mobile Software Engineer-Android/iOS*/
+	width: 93%;
+}   
+
+section span {
+	color: #E8B900;
+}
+.para-4 {
+	margin: 0px;
+	padding: 10px;
+}
+
+.btn {
+	color: white;
+	font-weight: bold;
+	padding: 10px;
+	background-color: #00a5ff;
+	margin-left: 10px;
+}
+
+.firstdiv {
+	background-color: white;
+}
+.btndiv {
+	display: inline-block;
+	background-color: #e1ebf4;
+	padding: 10px;
+	color: #4A81B5;
+	font-weight: bold;
+}

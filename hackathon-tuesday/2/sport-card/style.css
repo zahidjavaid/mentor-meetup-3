@@ -1,0 +1,51 @@
+body {
+	/*margin: 0px*/;
+}
+section {
+	display: inline-block;
+	width: 52.5%;
+	border: 1px solid #8d8d8d;
+}
+
+image {
+	position: relative;
+}
+
+div {
+	width: 52%;
+	height: 50px;
+	background-color: black;
+	position: absolute;
+	top: 350px;
+	left: 9px;
+	opacity: 0.6;
+	/*color: rgba(14, 14, 14, 0.6);*/
+	/*display: inline-block;*/
+}
+span {
+	color: white;
+	padding: 16px;
+	position: absolute;
+	top: 350px;
+	left: 5px;
+	
+}
+
+h1 {
+	padding: 16px;
+	font-size: 38px;
+}
+
+h2 {
+	padding: 16px;
+	font-size: 28px;
+	color: #8d8d8d;
+}
+
+p {
+	font-weight: bold;
+	color: white;
+	position: absolute;
+	top: 350px;
+	left: 50px;
+}
